@@ -3,15 +3,27 @@ pseudo code
 Initial Function()
 {
   //Sample Code
+  
 }
 
-feaature2()
+pseudo code
 {
-  //Sample Code for Feature 2
+Initial Function()
+{
+  //Sample Code
+  
 }
-securitypatch2
+
+feature1()
 {
-//Security patch code added for feature -2
+  //Sample Code for Feature 1
+}
+securitypatch()
+{
+//security patch code added
+}
+
+}
 }
 
 }
